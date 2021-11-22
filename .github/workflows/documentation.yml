@@ -1,0 +1,21 @@
+name: Documentation
+
+on:
+  push:
+    paths:
+      - docs/**      
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: julia-actions/setup-julia@latest
+        with:
+          version: '1.6'
+      - name: Install dependencies
+        run: julia --project=docs/ -e 'using Pkg; Pkg.instantiate()'
+      - name: Build and deploy
+        env:
+          DOCUMENTER_KEY: ${{ secrets.DOCUMENTER_KEY }} # For authentication with SSH deploy key
+        run: julia --project=docs/ docs/make.jl                

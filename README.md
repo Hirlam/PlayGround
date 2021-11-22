@@ -13,7 +13,7 @@ https://hirlam.github.io/HarmonieSystemDocumentation/dev/System/GitDeveloperDocu
 5. Go to the main repo, add a milestone, labels and leave a comment
 6. Go back to your fork and make some changes to the file you just created and commit. 
 7. Go back to the main repo and see that the new commit is now part of the pull request.   
-8. The PR will be merged using `Squash and Merge`. This will squash all commits in the PR to a single commit in the Hirlam:PlayGround epo. 
+8. The PR will be merged using `Squash and Merge`. This will squash all commits in the PR to a single commit in the Hirlam:PlayGround repo. 
 
 # Exercise 2 (Keep your fork up to date using the GUI) 
 

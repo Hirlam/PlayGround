@@ -1,7 +1,7 @@
 using Documenter
 
 
-pages = filter!(x -> x!="index.md", readdir("src/")) 
+pages = filter!(x -> x!="index.md", readdir("docs/src/")) 
 
 makedocs(
     sitename = "Playground wiki",

@@ -28,10 +28,12 @@ See our new [wiki](https://hirlam.github.io/HarmonieSystemDocumentation/dev/Syst
 
 # Exercise 3 (Adding Documentation) 
 
-All our wiki pages are in [markdown](https://www.markdownguide.org/cheat-sheet/). This is the same format used on Github for comments in pull request, issues etc. 
-From CY46 onward the Harmonie documentation will be part of the Harmonie repo and the workflow to update wiki pages is identical to normal code contributions using pull requests.   
+From CY46 onwards the Harmonie documentation will be part of the Harmonie repo and the workflow to update wiki pages is identical to normal code contributions using pull requests. The hirlam.org wiki will be discontinued in the future.   
 
-Go to https://hirlam.github.io/PlayGround/dev/index.html
+All new wiki pages are in [markdown](https://www.markdownguide.org/cheat-sheet/). This is the same format used on Github for comments in pull request, issues etc. 
+
+
+Go to https://hirlam.github.io/PlayGround/dev/index.html. Updating the wiki pages for this repo is similar to updating the new Harmonie wiki pages. 
 
 To update the "Home" page:
 1. Click the "Edit on Github" button at the top right of the page

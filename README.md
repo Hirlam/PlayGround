@@ -31,7 +31,7 @@ Harmonie uses a [fork branch pull-request](https://docs.github.com/en/get-starte
 
 # Exercise 3 (Keep your fork up to date using the GUI) 
 
-After others have succesfully merged their PRs in exercise 1 and you navigate to your PlayGround fork. You will see a message 
+After others have succesfully merged their PRs in exercise 2 and you navigate to your PlayGround fork. You will see a message 
 
 This branch is x commits behind Hirlam:develop.
 
@@ -64,3 +64,11 @@ To add a new page:
 
 The PlayGround wiki will automatically update the navigation bar on the left. In the Harmonie repo the navigation bar can be updated by editing `docs/pages.jl`
 
+# Exercise 5 (Comments) 
+
+One of the benefits of using PRs for code contributions is that other users can give comments before the PR gets merged.
+
+1. Go to the [pull requests](https://github.com/Hirlam/PlayGround/pulls) of the Hirlam/PlayGround repository and open a PR of another participant. 
+2. Leave a comment on the PR. See [here](https://www.markdownguide.org/cheat-sheet/) for markdown formatting. Note that you can leave a general commment in the PR or, by clicking "Files changed", leave comments for particular code changes.
+
+ 

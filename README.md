@@ -6,7 +6,7 @@ This repository is to practice with the use of the github GUI. It will be used d
 
 Some usernames are a bit cryptic, to make it easier to identify people in the Hirlam organization (if you haven't done this already)
 
-1. Go to your personal github account [setting]https://github.com/settings/profile
+1. Go to your personal github account [setting](https://github.com/settings/profile)
 2. Enter your full name, Company (Met Institute) and Location (Country or city) 
 
 

@@ -11,13 +11,15 @@ Some Github user names are a bit cryptic. To make it easier to identify people i
 
 # Exercise 1 (Fork Hirlam/PlayGround)
 
-Harmonie uses a fork-branch-pull-request based workflow. All developments will be done in a [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) in your personal Github account. For this tutorial we will fork the Hirlam/PlayGround repo. 
+Harmonie uses a [fork branch pull-request](https://docs.github.com/en/get-started/quickstart/github-flow) based workflow. All developments will be done in a [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) in your personal Github account. For this tutorial we will fork the Hirlam/PlayGround repo. 
 
 1. Create a fork of the Hirlam/PlayGround repository by clicking fork at the top right.
 
 
 # Exercise 2 (Pull Request) 
-1. Go to the fork in your personal github account and create a new [branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches#creating-a-branch), e.g. `feature/mypullrequest`
+
+
+1. Go to the fork in your personal github account and create a new [branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches#creating-a-branch), e.g. `feature/mypullrequest`.  
 2. Navigate to the `IcandoPRs` directory and create a new file by clicking `Add File` -> `Create new file`. Use your Github username as the filename  
 3. Commit your changes and start a pull request
 4. Your pull request will now be visible in the Hirlam:PlayGround repository. System people will add milestones, labels and assign a reviewer to the PR. 

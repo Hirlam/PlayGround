@@ -2,6 +2,14 @@
 
 This repository is to practice with the use of the github GUI. It will be used during the Github training to practice with creating pull requests, creating issues etc. 
 
+# Exercise 0 (Update your github profile)
+
+Some usernames are a bit cryptic, to make it easier to identify people in the Hirlam organization (if you haven't done this already)
+
+1. Go to your personal github account [setting]https://github.com/settings/profile
+2. Enter your full name, Company (Met Institute) and Location (Country or city) 
+
+
 # Exercise 1 (Pull Request) 
 
 1. Create a fork of the Hirlam/PlayGround repository by clicking fork at the top right.

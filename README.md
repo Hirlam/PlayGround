@@ -27,7 +27,7 @@ Harmonie uses a [fork branch pull-request](https://docs.github.com/en/get-starte
 5. Go back to your fork and make some changes to the file you just created and commit. 
 6. Go back to the Hirlam/Playground repository and check that the PR has been updated with the new commit.   
 7. Afer approval by the reviewer(s) the PR will be merged using `Squash and Merge`. This will squash all commits in the PR to a single commit in the Hirlam:PlayGround repo. 
-8. After the PR has been merged. You will get the option to delete the the branch. Click the "Delete branch" in the PR. This will delete the branch in your fork (It is possible that the System person doing the merge has done this already for you). Note that is important to always create a new branch for developments (step 1) so we can delete the branch afterwards. 
+8. After the PR has been merged. You will get the option to delete the branch in the PR. Click the "Delete branch" button, this will delete the branch in your fork (It is possible that the System person doing the merge has done this already for you). Note that is important to always create a new branch for developments (step 1) so we can delete the branch afterwards. 
 
 # Exercise 3 (Keep your fork up to date using the GUI) 
 

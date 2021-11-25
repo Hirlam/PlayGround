@@ -22,11 +22,11 @@ Harmonie uses a [fork branch pull-request](https://docs.github.com/en/get-starte
 1. Go to the fork in your personal github account and create a new [branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches#creating-a-branch), e.g. `feature/mypullrequest`.  
 2. Navigate to the `IcandoPRs` directory and create a new file by clicking `Add File` -> `Create new file`. Use your Github username as the filename  
 3. Commit your changes and start a pull request
-4. Your pull request will now be visible in the Hirlam:PlayGround repository. System people will add milestones, labels and assign a reviewer to the PR. 
+4. Your pull request will now be visible in the Hirlam/PlayGround repository. System people will add milestones, labels and assign a reviewer to the PR. 
    If you expect to contribute regularly to Harmonie and want to be able to handle milestones/labels/reviewers yourself ask one of the system people for triage permission on the Harmonie repo. 
 5. Go back to your fork and make some changes to the file you just created and commit. 
 6. Go back to the Hirlam/Playground repository and check that the PR has been updated with the new commit.   
-7. Afer approval by the reviewer(s) the PR will be merged using `Squash and Merge`. This will squash all commits in the PR to a single commit in the Hirlam:PlayGround repo. 
+7. Afer approval by the reviewer(s) the PR will be merged using `Squash and Merge`. This will squash all commits in the PR to a single commit in the Hirlam/PlayGround repo. 
 8. After the PR has been merged. You will get the option to delete the branch in the PR. Click the "Delete branch" button, this will delete the branch in your fork (It is possible that the System person doing the merge has done this already for you). Note that is important to always create a new branch for developments (step 1) so we can delete the branch afterwards. 
 
 # Exercise 3 (Keep your fork up to date using the GUI) 

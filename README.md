@@ -71,4 +71,12 @@ One of the benefits of using PRs for code contributions is that other users can 
 1. Go to the [pull requests](https://github.com/Hirlam/PlayGround/pulls) of the Hirlam/PlayGround repository and open a PR of another participant. 
 2. Leave a comment on the PR. See [here](https://www.markdownguide.org/cheat-sheet/) for markdown formatting. Note that you can leave a general commment in the PR or, by clicking "Files changed", leave comments for particular code changes.
 
+# Links
+
+To get a better understanding of the Harmonie repository and the Hirlam github organization: 
+
+1. [Milestones](https://github.com/Hirlam/Harmonie/milestones)
+2. [Issues](https://github.com/Hirlam/Harmonie/issues)
+3. Pull requests: [open](https://github.com/Hirlam/Harmonie/pulls?q=is%3Aopen+is%3Apr) and [closed](https://github.com/Hirlam/Harmonie/pulls?q=is%3Apr+is%3Aclosed)
+4. Hirlam [Teams](https://github.com/orgs/Hirlam/teams). Use team discussions instead of emails, so all members in the Hirlam organization can follow discussions.
  

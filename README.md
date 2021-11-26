@@ -6,7 +6,7 @@ This repository is to practice with the use of the github GUI. It will be used d
 
 Some Github user names are a bit cryptic. To make it easier to identify people in the Hirlam organization (if you haven't done this already)
 
-1. Go to your personal github account [setting](https://github.com/settings/profile)
+1. Go to your personal github account [settings](https://github.com/settings/profile)
 2. Enter your full name, Company (Met Institute) and Location (Country or city) 
 
 # Exercise 1 (Fork Hirlam/PlayGround)
@@ -53,7 +53,7 @@ Go to https://hirlam.github.io/PlayGround/dev/index.html.
 To update the "Home" page:
 1. Click the "Edit on Github" button at the top right of the page
     Edit the markdown file on github.com, if you dont have write permission to Hirlam/Harmonie you should see a message: You’re making changes in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change will write it to a new branch in your fork, so you can send a pull request.
-2. commit and start a pull request.
+2. commit (don't start a pull request because we will get many PRs all editing the same file with potential merge conflicts)
 
 To add a new page:
 
@@ -62,7 +62,7 @@ To add a new page:
 3. Commit your changes
 4. Start a pull request 
 
-The PlayGround wiki will automatically update the navigation bar on the left. In the Harmonie repo the navigation bar can be updated by editing `docs/pages.jl`
+The PlayGround wiki will automatically update the navigation bar on the left. In the Harmonie repo the navigation bar can be updated by editing `docs/pages.jl` (see the pre-CY46 branch, which will enter the develop branch soon)
 
 # Exercise 5 (Comments) 
 

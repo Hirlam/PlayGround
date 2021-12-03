@@ -1,12 +1,12 @@
 # PlayGround
 
-Thanks all for participating in the github training. There are still some open PRs we will leave it like that. You can keep using this repository to practice before you do a PR to the Harmonie repo. :warning: Don't use this repo for anything serious we might delete the forks at anytime. 
+Thanks all for participating in the github training. You can keep using this repository to practice before you do a PR to the Harmonie repo. :warning: Don't use this repo for anything serious we might delete the forks at any time. 
 
 This repository is to practice with the use of the github GUI. It will be used during the Github training to practice with creating pull requests, creating issues etc. 
 
 # Exercise 0 (Update your github profile)
 
-Some Github user names are a bit cryptic. To make it easier to identify people in the Hirlam organization (if you haven't done this already)
+Some Github usernames are a bit cryptic. To make it easier to identify people in the Hirlam organization
 
 1. Go to your personal github account [settings](https://github.com/settings/profile)
 2. Enter your full name, Company (Met Institute) and Location (Country or city) 
@@ -20,6 +20,8 @@ Harmonie uses a [fork branch pull-request](https://docs.github.com/en/get-starte
 
 # Exercise 2 (Pull Request) 
 
+To contribute code or update documentation you will need to create a pull request from your fork 
+
 
 1. Go to the fork in your personal github account and create a new [branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches#creating-a-branch), e.g. `feature/mypullrequest`.  
 2. Navigate to the `IcandoPRs` directory and create a new file by clicking `Add File` -> `Create new file`. Use your Github username as the filename  
@@ -28,7 +30,7 @@ Harmonie uses a [fork branch pull-request](https://docs.github.com/en/get-starte
    If you expect to contribute regularly to Harmonie and want to be able to handle milestones/labels/reviewers yourself ask one of the system people for triage permission on the Harmonie repo. 
 5. Go back to your fork and make some changes to the file you just created and commit. 
 6. Go back to the Hirlam/Playground repository and check that the PR has been updated with the new commit.   
-7. Afer approval by the reviewer(s) the PR will be merged using `Squash and Merge`. This will squash all commits in the PR to a single commit in the Hirlam/PlayGround repo. 
+7. After approval by the reviewer(s) the PR will be merged using `Squash and Merge`. This will squash all commits in the PR to a single commit in the Hirlam/PlayGround repo. 
 8. After the PR has been merged. You will get the option to delete the branch in the PR. Click the "Delete branch" button, this will delete the branch in your fork (It is possible that the System person doing the merge has done this already for you). Note that it is important to always create a new branch for developments (step 1) so we can delete the branch afterwards. 
 
 # Exercise 3 (Keep your fork up to date using the GUI) 

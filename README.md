@@ -1,5 +1,7 @@
 # PlayGround
 
+Thanks all for participating in the github training. There are still some open PRs we will leave it like that. You can keep using this repository to practice before you do a PR to the Harmonie repo. :warning: Don't use this repo for anything serious we might delete the forks at anytime. 
+
 This repository is to practice with the use of the github GUI. It will be used during the Github training to practice with creating pull requests, creating issues etc. 
 
 # Exercise 0 (Update your github profile)

@@ -5,7 +5,7 @@ pages = filter!(x -> x!="index.md", readdir("docs/src/"))
 
 makedocs(
     sitename = "Playground wiki",
-    format = Documenter.HTML(prettyurls = true, edit_link="develop", analytics="G-GTJK95SDB5"), 
+    format = Documenter.HTML(prettyurls = true, edit_link="develop", analytics="UA-221448594-2"), 
     pages = ["index.md", pages...]
 )
 

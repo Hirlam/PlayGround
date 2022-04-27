@@ -3,9 +3,14 @@ using Documenter
 
 pages = filter!(x -> x!="index.md", readdir("docs/src/")) 
 
+format= Documenter.HTML(prettyurls = true, 
+                        edit_link="develop",
+                        analytics="UA-221448594-2"
+                   )
+
 makedocs(
     sitename = "Playground wiki",
-    format = Documenter.HTML(prettyurls = true, edit_link="develop"), 
+    format = format,  
     pages = ["index.md", pages...]
 )
 
